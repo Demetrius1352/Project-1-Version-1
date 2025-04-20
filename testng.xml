@@ -1,0 +1,14 @@
+<suite name="FullECommerceSuite">
+    <test name="SmokeSuite">
+        <classes>
+            <class name="test.SignupTest"/>
+            <class name="test.LoginTest"/>
+            <class name="test.CategoryTest"/>
+            <class name="test.ProductTest"/>
+            <class name="test.CartTest"/>
+            <class name="test.PurchaseTest"/>
+            <class name="test.LogoutTest"/>
+        </classes>
+    </test>
+</suite>
+
